@@ -30,7 +30,7 @@ body {
   background-color: #0c0d20;
 }
 
-#timer-1 {  
+.timer {  
   font-family: sans-serif;  
   color: #ffffff;  
   text-align: center;  
@@ -43,13 +43,13 @@ body {
   text-shadow: 0 0 20px #0aafe6, 0 0 20px rgba(10, 175, 230, 0);  
   }  
    
-  #timer-1 .time {  
+  .timer .time {  
   letter-spacing: 0.05em;  
   font-size: 80px;  
   padding: 5px 0;  
   }  
    
-  #timer-1 .date {  
+  .timer .date {  
   letter-spacing: 0.1em;  
   font-size: 50px;  
   }  
